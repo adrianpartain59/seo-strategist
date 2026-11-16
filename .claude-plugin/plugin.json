@@ -1,0 +1,12 @@
+{
+  "name": "seo-strategist",
+  "version": "0.1.0",
+  "description": "An SEO + AI-answer (GEO) agency as a Claude Code skill: researches your site, competitors and keywords, delivers a keyword strategy sheet (pages to update, pages to build, a blog cluster, redirects, meta fixes) and a ready-to-paste page plan for every page, then a local review site.",
+  "author": {
+    "name": "Adrian Partain",
+    "url": "https://github.com/adrianpartain59"
+  },
+  "repository": "https://github.com/adrianpartain59/seo-strategist",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "aeo", "keyword-research", "content-strategy", "landing-pages", "on-page-seo", "ai-search", "llm-citations", "claude-code", "skill"]
+}

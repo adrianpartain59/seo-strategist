@@ -1,0 +1,16 @@
+{
+  "name": "seo-strategist",
+  "description": "SEO Strategist: an SEO + AI-answer agency in a Claude Code skill.",
+  "owner": {
+    "name": "Adrian Partain",
+    "url": "https://github.com/adrianpartain59"
+  },
+  "plugins": [
+    {
+      "name": "seo-strategist",
+      "source": "./",
+      "description": "Researches your site, competitors and keywords, delivers a keyword strategy sheet and a ready-to-paste page plan for every page, then a local review site.",
+      "version": "0.1.0"
+    }
+  ]
+}
